@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="778e7eb1-89a9-4989-87d8-57d24f7715f4" name="Changes" comment="Created Modules">
+      <change afterPath="$PROJECT_DIR$/_01-11-23/src/ArrayDeclaration/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01-11-23/src/ArrayDeclaration/UsingForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01-11-23/src/AutoboxingProgram/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01-11-23/src/UnboxingProgram/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/BankInterfaceExample/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/BankInterfaceExample/HDFC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/BankInterfaceExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/BankInterfaceExample/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/HalfPyramid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InstanceOf/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InstanceOf/Animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InstanceOf/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InterfaceInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InterfaceInheritance/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/InterfaceInheritance/Showable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/PrintableShowable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/PrintableShowable/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_30-10-23/src/PrintableShowable/Showable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2X9nQttZaEIem9JJnfedQwJcdco" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dhruv/Documents/Java/_30-10-23/src/InterfaceInheritance&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33908045&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dhruv\Documents\Java\_30-10-23\src\InterfaceInheritance" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dhruv\Documents\Java\_28-10-23\src" />
+      <recent name="C:\Users\Dhruv\Documents\Java\_27-10-23\src" />
+      <recent name="C:\Users\Dhruv\Documents\Java\_26-10-23\src" />
+      <recent name="C:\Users\Dhruv\Documents\Java\_23-10-23\src" />
+      <recent name="C:\Users\Dhruv\Documents\Java\23-10-23" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="778e7eb1-89a9-4989-87d8-57d24f7715f4" name="Changes" comment="" />
+      <created>1698050150069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698050150069</updated>
+      <workItem from="1698050151075" duration="1807000" />
+      <workItem from="1698057447630" duration="1294000" />
+      <workItem from="1698059215195" duration="57000" />
+      <workItem from="1698221081698" duration="6049000" />
+      <workItem from="1698309824198" duration="5537000" />
+      <workItem from="1698317228718" duration="146000" />
+      <workItem from="1698336074638" duration="103000" />
+      <workItem from="1698395261403" duration="1763000" />
+      <workItem from="1698397142610" duration="4245000" />
+      <workItem from="1698403741102" duration="958000" />
+      <workItem from="1698467697934" duration="121000" />
+      <workItem from="1698467836245" duration="19000" />
+      <workItem from="1698467872046" duration="68000" />
+      <workItem from="1698467958202" duration="6174000" />
+      <workItem from="1698510356414" duration="1464000" />
+      <workItem from="1698580282199" duration="28000" />
+      <workItem from="1698580319250" duration="428000" />
+      <workItem from="1698655296520" duration="7232000" />
+      <workItem from="1698827279055" duration="2991000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created Modules">
+      <option name="closed" value="true" />
+      <created>1698656066300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698656066300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Modules" />
+  </component>
+</project>
